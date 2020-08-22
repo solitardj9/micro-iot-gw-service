@@ -6,7 +6,7 @@
 #### 1.1.1.1. Create certificate for thing.
 > > Create certificate for thing.
 > > Create outgoing queue for the thing.
-<br>
+<br\>
 #### 1.1.1.2. Delete certificate of thing.
 > > Delete certificate of thing.
 > > Delete outgoing queue of thing b/f delete thing.
