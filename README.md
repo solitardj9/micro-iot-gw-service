@@ -25,6 +25,15 @@
 #### 1.1.3.2. Delete certificate for External Service.
 > > Delete certificate of external services (ex : micro services).
 
+### 1.1.4. RabbitMQ
+#### 1.1.4.1. Create/Update private CA certificate.
+> > Create(or Update) private CA certificate file(CaCert.pem) for RabbiMQ with specific path
+> > Share new CA certificate and reboot RabbitMQ
+
+#### 1.1.4.2. Attach public/private Server certificate.
+> > Attach public/private Server certificate and make files(server.pem, key.pem) for RabbiMQ with specific path
+> > Share new Server certificate and reboot RabbitMQ
+
 ### 1.2. Authorization Management
 ### 1.2.1. Thing
 #### 1.2.1.1. Attach policy.
