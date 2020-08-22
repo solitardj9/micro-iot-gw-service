@@ -1,6 +1,8 @@
 # micro-iot_gw-service
 
 ## 1. Concept
+
+
 ### 1.1. Authenticationauth Management
 ### 1.1.1. Thing
 #### 1.1.1.1. Create certificate for thing.
@@ -23,7 +25,7 @@
 > > Create certificate for external services (ex : micro services).
 
 #### 1.1.3.2. Delete certificate for External Service.
-> > Delete certificate of external services (ex : micro services).  
+> > Delete certificate of external services (ex : micro services).
 
 ### 1.2. Authorization Management
 ### 1.2.1. Thing
