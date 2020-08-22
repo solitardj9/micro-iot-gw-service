@@ -1,8 +1,6 @@
 # micro-iot_gw-service
 
 ## 1. Concept
-
-
 ### 1.1. Authenticationauth Management
 ### 1.1.1. Thing
 #### 1.1.1.1. Create certificate for thing.
