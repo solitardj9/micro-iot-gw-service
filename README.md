@@ -2,11 +2,11 @@
 
 ## 1. Concept
 ### 1.1. Authenticationauth Management
-### > > 1.1.1. about thing
-#### > > > 1.1.1.1. Create certificate for thing.
-> > > > - Create outgoing queue for the thing.
-#### > > > 1.1.1.2. Delete certificate of thing.
-> > > > - Delete outgoing queue of thing b/f delete thing.
+### 1.1.1. about thing
+#### 1.1.1.1. Create certificate for thing.
+> > - Create outgoing queue for the thing.
+#### 1.1.1.2. Delete certificate of thing.
+> > - Delete outgoing queue of thing b/f delete thing.
 
 2. Authorization Management
 
